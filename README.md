@@ -2,15 +2,6 @@
 
 Derived from [chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react/blob/master/src/manifest.json).
 
-# Chrome Extension Boilerplate with Solid-JS and Webpack 5
-
-[![npm](https://img.shields.io/npm/v/chrome-extension-boilerplate-solid)](https://www.npmjs.com/package/chrome-extension-boilerplate-solid)
-[![npm-download](https://img.shields.io/npm/dw/chrome-extension-boilerplate-solid)](https://www.npmjs.com/package/chrome-extension-boilerplate-solid)
-[![npm](https://img.shields.io/npm/dm/chrome-extension-boilerplate-solid)](https://www.npmjs.com/package/chrome-extension-boilerplate-solid)
-
-[![dependencies Status](https://david-dm.org/lxieyang/chrome-extension-boilerplate-solid/status.svg)](https://david-dm.org/lxieyang/chrome-extension-boilerplate-solid)
-[![devDependencies Status](https://david-dm.org/lxieyang/chrome-extension-boilerplate-solid/dev-status.svg)](https://david-dm.org/lxieyang/chrome-extension-boilerplate-solid?type=dev)
-
 ## Features
 
 This is a basic Chrome Extensions boilerplate to help you write modular and modern Javascript code, load CSS easily and [automatic reload the browser on code changes](https://webpack.github.io/docs/webpack-dev-server.html#automatic-refresh).
