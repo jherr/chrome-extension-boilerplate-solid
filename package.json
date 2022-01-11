@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-solid.git"
+    "url": "https://github.com/jherr/chrome-extension-boilerplate-solid.git"
   },
   "scripts": {
     "build": "node utils/build.js",
