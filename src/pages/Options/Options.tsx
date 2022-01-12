@@ -5,7 +5,7 @@ interface Props {
 }
 
 const Options = ({ title }: Props) => {
-  return <div className="OptionsContainer">{title} Page</div>;
+  return <div class="OptionsContainer">{title} Page</div>;
 };
 
 export default Options;

@@ -3,13 +3,13 @@ import './Newtab.scss';
 
 const Newtab = () => {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div class="App">
+      <header class="App-header">
         <p>
           Edit <code>src/pages/Newtab/Newtab.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          class="App-link"
           href="https://solidjs.com/"
           target="_blank"
           rel="noopener noreferrer"

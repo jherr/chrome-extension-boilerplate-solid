@@ -3,7 +3,7 @@ import './Panel.css';
 
 const Panel: Component = () => {
   return (
-    <div className="container">
+    <div class="container">
       <h1>Dev Tools Panel</h1>
     </div>
   );

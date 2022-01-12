@@ -1,6 +1,6 @@
 {
   "name": "chrome-extension-boilerplate-solid",
-  "version": "4.2.0",
+  "version": "1.0.1",
   "description": "A chrome extension boilerplate built with Solid-JS, Webpack 5, and Webpack Dev Server 4",
   "license": "MIT",
   "repository": {
